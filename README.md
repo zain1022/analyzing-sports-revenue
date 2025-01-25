@@ -1,6 +1,4 @@
-# analyzing-sports-revenue
-Analysis of product data for an online sports retail company to optimize revenue
-# Optimizing Online Sports Retail Revenue
+# Analyzing Online Sports Retail Revenue
 
 ## Overview
 Conducted SQL analysis to optimize pricing, revenue, and customer engagement.
